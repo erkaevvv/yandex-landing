@@ -1,0 +1,9 @@
+.main {
+	& .main__learning-problems {
+			padding: 100px 144px 0 144px;
+	}
+
+	& .main__history {
+			padding: 210px 144px 80px 144px;
+	}
+}

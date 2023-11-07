@@ -1,0 +1,21 @@
+.facts-cards {
+	margin: 0;
+	padding: 0;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 60px 33px;
+	list-style-type: none;
+
+		& .facts-cards__heading {
+			margin: 0 0 20px 0;
+		}
+
+		& .facts-cards__paragraph {
+			margin: 0;
+			line-height: 1.2;
+		}
+		
+		& .facts-cards__quote {
+			margin: 0;
+		}
+}

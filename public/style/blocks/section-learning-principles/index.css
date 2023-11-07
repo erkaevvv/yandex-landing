@@ -1,0 +1,16 @@
+.section-learning-principles {
+	padding: 90px 170px 90px 170px;
+	background-image: url(/img/rectangle.svg);
+	background-repeat: no-repeat;
+	background-position: right;
+
+		& .section-learning-principles__heading {
+				margin: 0 0 20px 0;
+				text-align: center;
+		}
+
+		& .section-learning-principles__paragraph {
+				margin: 0 0 80px 0;
+				text-align: center;
+		}
+}

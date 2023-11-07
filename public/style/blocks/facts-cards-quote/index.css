@@ -1,0 +1,5 @@
+.facts-cards-quote {
+	& .facts-cards-quote__footer {
+			padding-top: 20px;
+	}
+}

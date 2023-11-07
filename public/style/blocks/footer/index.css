@@ -1,0 +1,24 @@
+.footer {
+	display: flex;
+	padding: 60px 64px 58px 64px;
+
+		& .footer__logo {
+				margin-bottom: 115px;
+		}
+
+		& .footer__author {
+				margin: 0;
+		}
+
+		& .footer__navigation {
+				margin-left: auto;
+		}
+
+		& .footer__socials {
+				margin-left: 181px;
+		}
+}
+
+.footer_theme_black {
+	background-color: #1D1D1D;
+}

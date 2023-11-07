@@ -1,0 +1,13 @@
+.section-numbers-and-facts {
+	padding: 100px 170px 96px 170px;
+
+		& .section-numbers-and-facts__heading {
+				margin: 0 0 20px 0;
+				text-align: center;
+		}
+
+		& .section-numbers-and-facts__paragraph {
+				margin: 0 0 60px 0;
+				text-align: center;
+		}
+}

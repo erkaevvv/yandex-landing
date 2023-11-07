@@ -1,0 +1,45 @@
+.learning-technics-cards {
+	margin: 0;
+	padding: 0;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 60px 100px;
+	list-style-type: none;
+
+		& .learning-technics-cards__card {
+				background-position: top;
+				background-repeat: no-repeat;
+		}
+
+		& .learning-technics-cards__card:nth-child(1) {
+				background-image: url(/img/card-icon1.svg);
+		}
+
+		& .learning-technics-cards__card:nth-child(2) {
+				background-image: url(/img/card-icon2.svg);
+		}
+
+		& .learning-technics-cards__card:nth-child(3) {
+				background-image: url(/img/card-icon3.svg);
+		}
+
+		& .learning-technics-cards__card:nth-child(4) {
+				background-image: url(/img/card-icon4.svg);
+		}
+
+		& .learning-technics-cards__card:nth-child(5) {
+				background-image: url(/img/card-icon5.svg);
+		}
+
+		& .learning-technics-cards__heading {
+				margin: 0 0 16px 0;
+				padding-top: 203px;
+				text-align: center;
+		}
+
+		& .learning-technics-cards__paragraph {
+				margin: 0;
+				line-height: 1.28;
+				text-align: center;
+		}
+}

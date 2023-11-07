@@ -1,0 +1,9 @@
+.address-socials {
+	font-style: normal;
+
+		& .address-socials__heading {
+				margin: 0 0 20px 0;
+				font-weight: 600;
+				line-height: 1.67;
+		}
+}

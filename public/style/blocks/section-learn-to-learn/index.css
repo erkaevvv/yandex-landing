@@ -1,0 +1,28 @@
+.section-learn-to-learn {
+	position: relative;
+	padding: 0 0 30px 64px;
+	background-color: #F2F2F2;
+	background-image: url(/img/square.svg);
+	background-repeat: no-repeat;
+	background-position: right;
+
+		& .section-learn-to-learn__heading {
+				margin: 0 0 149px 0;
+				padding-top: 254px;
+				max-width: 730px;
+		}
+
+		& .section-learn-to-learn__image {
+				position: absolute;
+				right: 0;
+				bottom: 0;
+				background-image: url(/img/header-image.svg);
+				width: 765px;
+				height: 608px;
+		}
+
+		& .section-learn-to-learn__paragraph {
+				margin: 0;
+				max-width: 388px;
+		}
+}

@@ -1,0 +1,27 @@
+.section-feynman-method {
+	min-height: 843px;
+	background-image: url(/img/feynman.svg);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+
+		& .section-feynman-method__heading {
+				margin: 0 auto 70px;
+				padding-top: 100px;
+				max-width: 700px;
+				text-align: center;
+		}
+
+		& .section-feynman-method__text {
+				text-align: right;
+		}
+
+			& .section-feynman-method__paragraph {
+					display: inline-block;
+					margin: 0 245px 0 0;
+					max-width: fit-content;
+			}
+
+			& .section-feynman-method__link {
+				margin-right: 48px;
+			}
+}

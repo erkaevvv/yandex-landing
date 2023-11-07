@@ -1,0 +1,21 @@
+.section-video {
+	position: relative;
+	padding: 100px 195px 316px 195px;
+
+		& .section-video__heading {
+				margin: 0 0 20px 0;
+				text-align: center;
+		}
+
+		& .section-video__paragraph {
+				margin: 0;
+				text-align: center;
+		}
+
+		& .section-video__wrapper {
+				position: absolute;
+				bottom: -50px;
+				display: flex;
+				column-gap: 20px;
+		}
+}

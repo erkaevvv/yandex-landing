@@ -1,0 +1,30 @@
+.link {
+	text-decoration: none;
+	display: inline-block;
+}
+
+.link_color_common {
+	color: #2F80ED;
+}
+
+.link_color_white {
+	color: #fff;
+}
+
+.link_size_bg {
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 1.42;
+}
+
+.link_size_md {
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 1.4;
+}
+
+.link_size_sm {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.13;
+}

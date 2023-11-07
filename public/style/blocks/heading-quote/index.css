@@ -1,0 +1,9 @@
+.heading-quote {
+	& .heading-quote__paragraph {
+			margin: 0;
+	}
+		
+	& .heading-quote__heading {
+			margin: 0;
+	}
+}

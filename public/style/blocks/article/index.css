@@ -1,0 +1,18 @@
+.article {
+	display: flex;
+	justify-content: space-between;
+
+	& .article__heading {
+		margin: 0;
+		max-width: 175px;
+	}
+
+	& .article__paragraph {
+		margin: 0;
+		max-width: 921px;
+	}
+}
+
+.article_theme_gray {
+	background-color: #F2F2F2;
+}

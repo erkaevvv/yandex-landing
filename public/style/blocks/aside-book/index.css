@@ -1,0 +1,21 @@
+.aside-book {
+	padding: 100px 0 0 144px;
+
+		& .aside-book__heading-quote {
+				margin: 0 0 50px 0;
+		}
+
+		& .aside-book__about-quote {
+				margin: 0 0 68px 0;
+		}
+
+		& .aside-book__buy {
+				margin: 0;
+				display: flex;
+				column-gap: 48px;
+		}
+}
+
+.aside-book_theme_gray {
+	background-color: #F2F2F2;
+}

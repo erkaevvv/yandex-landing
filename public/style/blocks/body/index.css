@@ -1,0 +1,13 @@
+.body {
+	
+	& .body__header {
+			position: absolute;
+			z-index: 1;
+			padding: 30px 0 0 64px;
+			inset: 0 0 auto;
+	}
+
+	& .body__container {
+			position: relative;
+	}
+}

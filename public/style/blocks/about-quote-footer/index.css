@@ -1,0 +1,12 @@
+.about-quote-footer {
+	& .about-quote-footer__author {
+			margin: 0 0 10px 0;
+			font-weight: 600;
+			line-height: 1.15;
+	}
+
+	& .about-quote-footer__author-job {
+			margin: 0;
+			line-height: 1.15;
+	}
+}

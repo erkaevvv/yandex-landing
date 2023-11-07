@@ -1,0 +1,32 @@
+/* blocks */
+@import "socials-menu";
+@import "menu";
+@import "address-socials";
+@import "navigation";
+@import "useful-resources";
+@import "principles-cards";
+@import "about-quote-footer";
+@import "about-quote";
+@import "heading-quote";
+@import "facts-cards-quote";
+@import "facts-cards";
+@import "learning-technics-cards";
+@import "paragraph";
+@import "link";
+@import "heading";
+@import "container";
+
+/* main-blocks */
+@import "footer";
+@import "aside-useful-resources";
+@import "section-learning-principles";
+@import "aside-book";
+@import "section-numbers-and-facts";
+@import "section-feynman-method";
+@import "section-video";
+@import "section-learning-technics";
+@import "article";
+@import "section-learn-to-learn";
+@import "section";
+@import "main";
+@import "body";

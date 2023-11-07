@@ -1,0 +1,41 @@
+.heading_color_blue {
+	color: #2F80ED;
+}
+
+.heading_color_black {
+	color: #000;
+}
+
+.heading_color_white {
+	color: #fff;
+}
+
+.heading_size_xl {
+	font-size: 120px;
+	font-weight: 600;
+	line-height: 1.15;
+}
+
+.heading_size_lg {
+	font-size: 102px;
+	font-weight: 600;
+	line-height: 0.94;
+}
+
+.heading_size_bg {
+	font-size: 60px;
+	font-weight: 600;
+	line-height: 1.15;
+}
+
+.heading_size_md {
+	font-size: 24px;
+	font-weight: 600;
+	line-height: 1.15;
+}
+
+.heading_size_sm {
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.2;
+}

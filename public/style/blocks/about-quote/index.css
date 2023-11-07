@@ -1,0 +1,6 @@
+.about-quote {
+	& .about-quote__paragraph {
+			margin: 0 0 36px 0;
+			max-width: 790px;
+	}
+}

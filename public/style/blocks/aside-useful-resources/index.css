@@ -1,0 +1,13 @@
+.aside-useful-resources {
+	padding: 100px 180px 217px 180px;
+
+		& .aside-useful-resources__heading {
+				margin: 0 0 20px 0;
+				text-align: center;
+		}
+
+		& .aside-useful-resources__paragraph {
+				margin: 0 0 80px 0;
+				text-align: center;
+	}
+}
