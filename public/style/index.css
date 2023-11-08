@@ -1,9 +1,12 @@
 @import "normalize.css";
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Montserrat:wght@400;600&display=swap');
 @import "blocks";
+@font-face {
+	font-family: Inter;
+	src: url(/style/font/Inter-VariableFont_slnt\,wght.woff2) format('woff2');
+}
 
 body {
-  font-family: 'Inter', sans-serif;
+  font-family: Inter, sans-serif;
 }
 
 *,
