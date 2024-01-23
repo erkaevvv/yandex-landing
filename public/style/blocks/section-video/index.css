@@ -18,4 +18,8 @@
 				display: flex;
 				column-gap: 20px;
 		}
+
+		& .section-video__video {
+				border: none;
+		}
 }
